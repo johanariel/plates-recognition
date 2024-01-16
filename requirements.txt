@@ -1,0 +1,9 @@
+opencv-python
+easyocr
+mysql-connector-python
+Pillow
+scikit-image
+scikit-learn
+tensorflow==1.*
+matplotlib
+numpy
